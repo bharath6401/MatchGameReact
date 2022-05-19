@@ -1,0 +1,11 @@
+.tab-item {
+  list-style: none;
+
+  margin-left: 20px;
+}
+
+button {
+  background-color: transparent;
+  border: 0px;
+  color: white;
+}
